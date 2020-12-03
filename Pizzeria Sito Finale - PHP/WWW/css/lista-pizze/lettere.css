@@ -1,0 +1,15 @@
+.div_lettere
+{
+	padding:3px;
+
+}
+.lettere
+{
+	padding:3px;
+}
+.lettere_segnate
+{
+	//color: #1125DB;
+	color:	#FF0000;
+	text-decoration: underline;	
+}

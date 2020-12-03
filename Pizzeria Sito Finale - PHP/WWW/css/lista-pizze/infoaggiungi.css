@@ -1,0 +1,22 @@
+div#infoaggiungi{ margin:3px; display:none;
+		position:fixed;top:0px;left:0px;
+		width:99% ;
+		height:auto;
+		border: 1px #f54f00 solid;
+		color: #000000;
+		text-align:center;
+		font-size: 15px;
+		font-weight: bold;
+		font-family: inherit;
+		font-style: inherit;
+		text-decoration: inherit;
+		line-height: 1.2em;
+		-moz-box-shadow: 0px 0px 5px 3px #a3a3a3;
+		-webkit-box-shadow: 0px 0px 5px 3px #a3a3a3;
+		box-shadow: 0px 0px 5px 3px #a3a3a3;
+		background:-o-linear-gradient(bottom, #ff7f00 5%, #bf5f00 100%); background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff7f00), color-stop(1, #bf5f00) );
+		background:-moz-linear-gradient( center top, #ff7f00 5%, #bf5f00 100% );
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff7f00", endColorstr="#bf5f00"); background: -o-linear-gradient(top,#ff7f00,bf5f00);
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		}

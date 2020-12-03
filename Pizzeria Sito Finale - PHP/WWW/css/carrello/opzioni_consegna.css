@@ -1,0 +1,46 @@
+#div_indirizzo_utente
+{
+width: 300px;
+height: auto;
+
+
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=84)";
+filter: alpha(opacity=84);
+-moz-opacity: 0.84;
+-khtml-opacity: 0.84;
+opacity: 0.84;
+border: 2px #e14f0e solid;
+
+background-color: #ffffff;
+
+padding: 5px;
+
+color: #002157;
+font-size: inherit;
+font-weight: inherit;
+font-family: inherit;
+font-style: inherit;
+text-decoration: inherit;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+
+-moz-box-shadow: inset 0px 0px 5px 0px #333333;
+-webkit-box-shadow: inset 0px 0px 5px 0px #333333;
+box-shadow: inset 0px 0px 5px 0px #333333;
+}
+
+#div_indirizzo_utente button
+{
+	margin:0;
+	
+}
+#div_indirizzo_utente div
+{
+	margin:0;
+	padding:1px 2px;
+}
+span
+{
+	font-weight:bold;
+}

@@ -1,0 +1,36 @@
+legend
+{
+	margin:1em 0;
+	padding:0 .5em;
+	color:#036;
+	background:transparent;
+	font-size:1.3em;
+	font-weight:bold;
+}
+.tratto
+{
+	margin:1em 0;
+	border:none;
+	border-top:1px solid #ccc;
+}
+fieldset div.fm-req
+{
+	font-weight:bold;
+}
+fieldset div.fm-req label:before
+{
+	content:"* ";
+}
+#fm-submit
+{
+	clear:both;
+	padding-top:1em;
+}
+#fm-submit input
+{
+	border:1px solid #333;
+	padding:2px 1em;
+	background:#555;
+	color:#fff;
+	font-size:100%;
+}
